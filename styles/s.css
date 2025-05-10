@@ -195,14 +195,14 @@
     transition: 0.5s;
   }
   .steps__item--1:after{
-    content: url("/src/img/1-2-line.svg");
+    content: url("../src/img/1-2-line.svg");
     position: absolute;
     top: 80px;
     clip-path: inset(0 0 32% 0);
     z-index: -1;
   }
   .steps__item--2:after{
-    content: url("/src/img/2-3-line.svg");
+    content: url("../src/img/2-3-line.svg");
     position: absolute;
     top: 55px;
     right: -100px;
@@ -210,7 +210,7 @@
     z-index: -1;
   }
   .steps__item--3:after{
-    content: url("/src/img/3-4-line.svg");
+    content: url("../src/img/3-4-line.svg");
     position: absolute;
     top: -160px;
     right: 43px;
@@ -218,7 +218,7 @@
     z-index: -1;
   }
   .steps__item--4:after{
-    content: url("/src/img/4-5-line.svg");
+    content: url("../src/img/4-5-line.svg");
     position: absolute;
     top: -63px;
     left: 223px;
@@ -226,7 +226,7 @@
     z-index: -1;
   }
   .steps__item--5:after{
-    content: url("/src/img/5-6-line.svg");
+    content: url("../src/img/5-6-line.svg");
     position: absolute;
     top: 60px;
     left: 40px;
